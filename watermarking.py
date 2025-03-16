@@ -77,3 +77,5 @@ def load_audio(audio_path: str) -> tuple[torch.Tensor, int]:
 
 if __name__ == "__main__":
     cli_check_audio()
+
+# Path: silentcipher.py
